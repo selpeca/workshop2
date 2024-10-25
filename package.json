@@ -1,0 +1,15 @@
+{
+  "name": "workshop2",
+  "version": "1.0.0",
+  "description": "Large lenguage model\r ### Capacidades\r generar texto\r resumen de texto\r traducción\r ### ¿Cómo funciona?\r #### Redes neuronales\r Es un programa complejo que dan resultado a grandes cantidades de datos\r ##### Transformers\r Mecanismo por el cual la red funciona, permite generar la respuesta de acuerdo al mecanismo qu ese le de",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "dotenv": "^16.4.5"
+  }
+}
